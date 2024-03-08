@@ -24,14 +24,17 @@ label {
     margin-bottom: 5px;
 }
 
-textarea,
 select,
 input[type="number"] {
-    width: 100%;
+    width: 85%;
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 3px;
+}
+
+textarea{
+    width: 100%;
 }
 
 /* Style the submit button */
